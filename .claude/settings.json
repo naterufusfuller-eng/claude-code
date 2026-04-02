@@ -1,0 +1,22 @@
+{
+  "pluginMarketplaces": [
+    {
+      "source": "./.claude-plugin/marketplace.json"
+    }
+  ],
+  "plugins": [
+    { "name": "agent-sdk-dev" },
+    { "name": "claude-opus-4-5-migration" },
+    { "name": "code-review" },
+    { "name": "commit-commands" },
+    { "name": "explanatory-output-style" },
+    { "name": "feature-dev" },
+    { "name": "frontend-design" },
+    { "name": "hookify" },
+    { "name": "learning-output-style" },
+    { "name": "plugin-dev" },
+    { "name": "pr-review-toolkit" },
+    { "name": "ralph-wiggum" },
+    { "name": "security-guidance" }
+  ]
+}
